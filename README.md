@@ -1,8 +1,8 @@
 ## About Me
-Hi there, I'm Sabira. 👋 I'm a passionate FullStack Web Developer with expertise in MERN, Vue, Laravel, and Shopify.
+Hi there, I'm Sabira. 👋 I'm a FullStack Web Developer with expertise in MERN, Laravel, Vue and Shopify.
 
 ## Skills
-💬 Ask me about MERN, Vue, Laravel, Shopify, HTML, CSS.
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,jquery,tailwind,sass,bootstrap,nodejs,laravel,mysql,mongodb,java,python&theme=light)](https://skillicons.dev)
 
 ## Connect with Me
 [<img src="https://github.com/hello-sabira/hello-sabira/blob/main/icons/linkedin.svg" width="18" />](https://www.linkedin.com/in/sabiratahsinkhan/)
