@@ -2,7 +2,7 @@
 Hi there, I'm Sabira. 👋 I'm a FullStack Web Developer .
 
 ## Skills
-  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind,sass,bootstrap,nodejs,laravel,mysql,mongodb,java,python&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind,sass,bootstrap,nodejs,laravel,mysql,mongodb,python&theme=dark)](https://skillicons.dev)
   <img src="https://camo.githubusercontent.com/7449ed470197daee91935b90d2621a8db43ac959c6551a974cd9357c15f3b20e/68747470733a2f2f6861796573303732342e6769746875622e696f2f73686f706966792d7061636b65722f696d672f6c6f676f732f73686f706966792e737667" alt="" style="width:4%;  top: -130px; ">
 
 <!-- ## Connect with Me
