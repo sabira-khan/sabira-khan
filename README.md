@@ -13,7 +13,7 @@ Hi there, I'm Sabira. 👋 I'm a passionate FullStack Web Developer with experti
 ## GitHub Stats
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sabira-khan&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="width: 48%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabira-khan&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabira-khan&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 45%;">
 </div>
 
 
