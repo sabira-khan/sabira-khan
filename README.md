@@ -1,4 +1,4 @@
-## About Me
+## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 👋 Greetings, Earthlings! Sabira here, your friendly neighborhood Full Stack Developer. 
 Go ahead, take a look around.<br> Dive into my repos, where every line of code was most probably written under heavy caffeine influence, or sleep deprivation, or both. 
 
