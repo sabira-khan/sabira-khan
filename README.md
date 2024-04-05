@@ -5,7 +5,7 @@ Go ahead, take a look around.<br> Dive into my repos, where every line of code w
 
 ## Tech Stack
   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,nodejs,laravel,mysql,mongodb,tailwind,sass,bootstrap,python&theme=dark)](https://skillicons.dev)
-  <img src="https://avatars.githubusercontent.com/u/8085?s=200&v=4" alt="" style="width:5%;  top: -130px; ">
+  <img src="https://avatars.githubusercontent.com/u/8085?s=200&v=4" alt="" style="width:6%;  top: -130px; ">
 
 
 <!-- ## Connect with Me
