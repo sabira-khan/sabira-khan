@@ -1,6 +1,6 @@
 ## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 👋 Greetings, Earthlings! Sabira here, your friendly neighborhood Full Stack Developer.
-Go ahead, take a look around.<br> Dive into my repos, where every line of code was most probably written under heavy caffeine influence, or sleep deprivation, or both.
+Go ahead, take a look around.<br> Dive into my repos, where every project was most probably built under heavy caffeine influence, or sleep deprivation, or both.
 
 These days I build e-commerce platforms, Shopify integrations and AI agents with Laravel, Nuxt, Vue and React, in Kuwait. Open to remote roles and relocation to Canada.
 
